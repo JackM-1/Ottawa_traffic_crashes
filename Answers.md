@@ -13,7 +13,7 @@ FROM
 
 total_records|
 -------------|
-686276|
+74612|
 
 #### What is the earliest and latest date of recorded crashes?
 ```sql
