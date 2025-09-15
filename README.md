@@ -21,3 +21,4 @@ The following questions will be answered using SQL:
 - What month has the most amount of fatal crashes?
 - What single day has the most amount of fatal crashes?
 
+* [Data Analysis Question & Answers](https://github.com/JackM-1/Ottawa_traffic_crashes/blob/main/Answers.md)
